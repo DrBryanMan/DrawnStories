@@ -1,9 +1,9 @@
 // import * as Functions from './js/functions.js'
 // import { dataVolumes } from './js/loadData.js' // Змінні з даними
-import { loadDBData } from '/js/loadData.js'
-import { setupRoutes } from '/js/router.js'
-import { initSearch } from '/js/search.js'
-import '/js/main.js'
+import { loadDBData } from 'js/loadData.js'
+import { setupRoutes } from 'js/router.js'
+import { initSearch } from 'js/search.js'
+import 'js/main.js'
 
 document.addEventListener('DOMContentLoaded', async () => {
     try {
