@@ -189,6 +189,4 @@ export function pageIssue(data) {
     })
     return div
   }
-
-  issueUpdateBtn.onclick = () => updateIssueFromCV(data.cv_id)
 }
