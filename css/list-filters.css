@@ -1,0 +1,108 @@
+.filters-section {
+    position: relative;
+    margin-bottom: 20px;
+    padding: .2em;
+    align-content: center;
+    border-top: 1px solid var(--accent-hsl-50);
+    border-bottom: 1px solid var(--accent-hsl-50);
+}
+
+/* Лічильник */
+#itemsCounter {
+    margin-right: auto;
+    display: grid;
+    place-self: center;
+    font-size: 16px;
+    color: var(--dark-color);
+}
+
+/* Вид відображення списку */
+.list-controls {
+    display: flex;
+    justify-content: flex-end;
+    /* align-items: center; */
+    gap: 1em;
+}
+
+.view-controls {
+    display: flex;
+    border: 1px solid var(--accent-hsl-20);
+    border-radius: var(--border-radius);
+    overflow: hidden;
+}
+
+.view-controls button {
+    background: none;
+    padding: 0 .5em;
+    border-radius: unset;
+}
+
+.view-controls button:hover {
+    background-color: var(--accent-light-hsl-10);
+}
+.view-controls button.active {
+    background-color: var(--accent-light-hsl-20);
+}
+
+/* Сортування */
+#sortBtn:after {
+    content: " Сортування";
+}
+    #sortOptions button {
+    padding: 0.5em;
+    border: none;
+    background: none;
+    border-radius: var(--border-radius);
+    transition: .2s;
+}
+#sortOptions button:hover {
+  background-color: var(--accent-light-hsl-10);
+}
+
+/* Фільтри */
+#filterBtn:after {
+    content: ' Фільтри';
+}
+#sortBtn.active, #filterBtn.active {
+    background-color: var(--accent-hsl-20);
+}
+
+#sortOptions, #filterOptions {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    visibility: hidden;
+    opacity: 0;
+    gap: .2em;
+    top: calc(100% + 5px);
+/*    right: 0;*/
+    background: var(--light-hsl-90);
+    backdrop-filter: blur(10px);
+    border: 1px solid var(--accent-hsl-10);
+    border-radius: var(--border-radius);
+    padding: .5em;
+    margin-top: 0;
+    z-index: 10;
+}
+#sortOptions.active, #filterOptions.active {
+    visibility: visible;
+    opacity: 1;
+    transition: opacity .3s;
+}
+#sortOptions, #filterOptions h4 {
+    margin-bottom: .4em;
+}
+#filterOptions .filter-btn {
+    background-color: var(--accent-hsl-05);
+    border: 1px solid var(--accent-hsl-10);
+    padding: .5em 1em;
+    border-radius: var(--border-radius);
+    transition: .2s;
+}
+#filterOptions .filter-btn:hover {
+    background-color: var(--accent-hsl-10);
+    border: 1px solid var(--accent-hsl-20);
+}
+#filterOptions .filter-btn.active {
+    background-color: var(--accent-light-hsl);
+}

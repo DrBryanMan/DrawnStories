@@ -1,0 +1,186 @@
+/* == Пошук == */
+
+
+/* == Каталог == */
+/* Загально для списків */
+.items-list {
+    display: grid;
+    /* flex-wrap: wrap; */
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    /* justify-content: center; */
+    justify-items: center;
+    align-items: flex-start;
+    gap: 1em 2em;
+}
+.no-results {
+    display: flex;
+    gap: 1em;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 1.5em;
+}
+.no-results i {
+    font-size: 2em;
+    color: #dc4c64;
+    font-weight: bold;
+}
+/** У вигляді списку **/
+.items-list.list-view {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(calc(33.3% - 4em), 1fr));
+}
+.items-list.list-view .anime-cover {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    opacity: .2;
+    transition: .3s;
+}
+.items-list.list-view .anime-cover img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    /* margin: auto; */
+}
+
+/* Картка елементу */
+.card {
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    overflow: hidden;
+    width: 100%;
+    /* gap: .3em; */
+    max-width: 250px;
+    background: var(--accent-dark-hsl-10);
+    border-radius: var(--border-radius);
+    outline: 1px solid var(--accent-hsl-50);
+    padding: 4px;
+    transition: .3s;
+    cursor: pointer;
+    /* aspect-ratio: 1/2; */
+    z-index: 0;
+}
+.card:hover {
+    background: var(--accent-dark-hsl-20);
+    box-shadow: var(--box-shadow);
+    outline: 1px solid var(--accent-color);
+}
+.poster-box {
+    max-height: 300px;
+    overflow: hidden;
+    border-radius: var(--border-radius);
+}
+.poster-box img {
+    width: 100%;
+    height: auto;
+}
+/** У вигляді списку **/
+.items-list.list-view .card {
+    position: relative;
+    flex-direction: row;
+    align-items: center;
+    width: 100%;
+    max-width: 400px;
+    height: 158px;
+    gap: 1em;
+    padding: 1em;
+    /* aspect-ratio: 4/1;   */
+}
+.items-list.list-view .poster-box {
+    max-height: 150px;
+    width: 25%;
+}
+.items-list.list-view .card .info {
+    width: calc(75% - 1em);
+    /* width: 100%; */
+}
+
+/* Для картки коміксу */
+.card .info {
+    padding: 4px;
+    text-align: center;
+    width: 100%;
+}
+.card h3 {
+    font-size: 1rem;
+    margin: 0;
+    font-weight: 500;
+}
+
+/** У вигляді списку **/
+
+
+/* Картки команд */
+.team-logo {
+    border-radius: var(--radius);
+}
+.items-list .team-card .info {
+    text-align: center;
+    width: 100%;
+}
+.items-list .team-card:not(:has(img + .info)) {
+    aspect-ratio: 1/1;
+    justify-content: center;
+}
+/** У вигляді списку **/
+.items-list.list-view .team-card img + .info {
+    width: calc(100% - 130px - 1em);
+}
+.items-list.list-view .team-card img {
+    height: 100%;
+}
+
+/* Пагінація */
+.pagination-container {
+    position: sticky;
+    margin-top: 1em;
+    bottom: 1em;
+/*     border: 1px solid; */
+    display: flex;
+    justify-content: center;
+    color: var(--dark-color);
+}
+.pagination-controls {
+    display: flex;
+    gap: .5em;
+    padding: .5em;
+    border: 1px solid var(--accent-color);
+    border-radius: var(--border-radius);
+    background-color: var(--accent-light-hsl-80);
+    backdrop-filter: blur(10px);
+    box-shadow: var(--box-shadow);
+}
+#paginationNumbers {
+    display: flex;
+    gap: .5em;
+}
+.page-btn {
+    background-color: var(--light-hsl-50);
+    width: 2.5em;
+    aspect-ratio: 1/1;
+    border-radius: var(--border-radius);
+    display: grid;
+    place-items: center;
+    transition: .3s;
+}
+.page-btn.active {
+    background: var(--accent-light-hsl);
+    border: 1px solid var(--accent-hsl);
+}
+.page-btn:not(.active):hover {
+    background-color: var(--light-hsl-90);
+}
+.ellipsis {
+    display: flex;
+    align-items: flex-end;
+}
+
+#pageInput {
+    width: 80px;
+    border-radius: 4px;
+}
