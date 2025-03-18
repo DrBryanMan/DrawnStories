@@ -2,7 +2,6 @@ import * as Utils from '../Utils.js'
 import { dataVolumes } from '../loadData.js' // Змінні з даними
 // import { dataCharacters, dataConcepts, dataLocations, dataObjects, dataPeople, dataPublishers, dataTeams, dataVolumes } from './loadData.js' // Змінні з даними
 import { generateStoriesTabs, setupTabs } from '../issueStorysTabs.js'
-import { updateIssueFromCV } from '../../scripts/updateIssueFromCV.js'
 // const fdpath = 'https://images.wikia.nocookie.net/marveldatabase/images/thumb/'
 const cvimgpath = 'https://comicvine.gamespot.com/a/uploads/scale_small/'
 
