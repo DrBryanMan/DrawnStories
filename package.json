@@ -1,23 +1,9 @@
 {
-  "name": "comicstopia",
+  "name": "drawnstories",
   "version": "1.0.0",
-  "main": "server.js",
+  "type": "module",
+  "description": "Енциклопедія всіх у світі мальованих історій",
   "scripts": {
-    "start": "node server.js",
-    "dev": "nodemon server.js",
-    "dev:browser-sync": "browser-sync start --proxy localhost:3000 --files 'public/**/*.*' --no-open"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
-  "dependencies": {
-    "body-parser": "^1.20.3",
-    "express": "^4.21.2",
-    "node-fetch": "^2.7.0"
-  },
-  "devDependencies": {
-    "browser-sync": "^3.0.3",
-    "nodemon": "^3.1.9"
+    "start": "your-start-command"
   }
 }
