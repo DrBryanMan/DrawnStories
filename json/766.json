@@ -1,0 +1,810 @@
+{
+  "id": 1,
+  "cv_id": 766,
+  "logo": null,
+  "cover_small": "https://comicvine.gamespot.com/a/uploads/scale_small/0/9116/880845-1.jpg",
+  "cover_original": "https://comicvine.gamespot.com/a/uploads/original/0/9116/880845-1.jpg",
+  "name": "Single Series",
+  "publisher": 5,
+  "start_year": "1938",
+  "issues": [
+    {
+      "id": "1",
+      "cv_id": 164287,
+      "date_added": "2009-07-17 17:02:18",
+      "cover_small": "https://comicvine.gamespot.com/a/uploads/scale_small/0/9116/880845-1.jpg",
+      "cover_original": "https://comicvine.gamespot.com/a/uploads/original/0/9116/880845-1.jpg",
+      "alt_covers": [],
+      "release": "1938-01-01",
+      "publication": "2009-07-17 17:02:18",
+      "story_title": "The Captain and the Kids",
+      "editor_chief": "",
+      "creators": [],
+      "storys": [],
+      "characters": [
+        "68743-Dur Captain",
+        "68745-Dur Inspector",
+        "68742-Fritz Katzenjammer",
+        "68741-Hans Katzenjammer",
+        "68744-Mama Katzenjammer"
+      ],
+      "teams": [
+        "57252-The Captain and the Kids"
+      ],
+      "locations": [],
+      "objects": [],
+      "concepts": [
+        "55820-Golden Age of Comics",
+        "56695-Humor"
+      ],
+      "story_line": [],
+      "story_arcs": [],
+      "event": [],
+      "entities": true
+    },
+    {
+      "id": "2",
+      "cv_id": 92458,
+      "date_added": "2008-06-06 11:09:04",
+      "cover_small": "https://comicvine.gamespot.com/a/uploads/scale_small/0/4/59463-766-92458-1-single-series.jpg",
+      "cover_original": "https://comicvine.gamespot.com/a/uploads/original/0/4/59463-766-92458-1-single-series.jpg",
+      "alt_covers": [],
+      "release": "1939-01-01",
+      "publication": "2008-06-06 11:09:04",
+      "story_title": "Broncho Bill",
+      "editor_chief": "",
+      "creators": [],
+      "storys": [],
+      "characters": [
+        "34368-Broncho Bill"
+      ],
+      "teams": [],
+      "locations": [],
+      "objects": [],
+      "concepts": [
+        "55820-Golden Age of Comics"
+      ],
+      "story_line": [],
+      "story_arcs": [],
+      "event": [],
+      "entities": true
+    },
+    {
+      "id": "3",
+      "cv_id": 164288,
+      "date_added": "2009-07-17 17:02:42",
+      "cover_small": "https://comicvine.gamespot.com/a/uploads/scale_small/0/9116/880846-3.jpg",
+      "cover_original": "https://comicvine.gamespot.com/a/uploads/original/0/9116/880846-3.jpg",
+      "alt_covers": [],
+      "release": "1939-01-01",
+      "publication": "2009-07-17 17:02:42",
+      "story_title": "Ella Cinders",
+      "editor_chief": "",
+      "creators": [],
+      "storys": [],
+      "characters": [
+        "9274-Ella Cinders"
+      ],
+      "teams": [],
+      "locations": [],
+      "objects": [],
+      "concepts": [
+        "55820-Golden Age of Comics"
+      ],
+      "story_line": [],
+      "story_arcs": [],
+      "event": [],
+      "entities": true
+    },
+    {
+      "id": "4",
+      "cv_id": 92459,
+      "date_added": "2008-06-06 11:09:04",
+      "cover_small": "https://comicvine.gamespot.com/a/uploads/scale_small/0/9116/1556920-187877.jpg",
+      "cover_original": "https://comicvine.gamespot.com/a/uploads/original/0/9116/1556920-187877.jpg",
+      "alt_covers": [],
+      "release": "1939-01-01",
+      "publication": "2008-06-06 11:09:04",
+      "story_title": "Li'l Abner",
+      "editor_chief": "",
+      "creators": [
+        "52277-Al Capp|writer, artist, cover"
+      ],
+      "storys": [],
+      "characters": [
+        "1900-Daisy Mae",
+        "9279-Li'l Abner",
+        "66566-Mammy Yokum",
+        "66567-Pappy Yokum"
+      ],
+      "teams": [],
+      "locations": [],
+      "objects": [],
+      "concepts": [
+        "55820-Golden Age of Comics",
+        "56695-Humor"
+      ],
+      "story_line": [],
+      "story_arcs": [],
+      "event": [],
+      "entities": true
+    },
+    {
+      "id": "5",
+      "cv_id": 164289,
+      "date_added": "2009-07-17 17:35:43",
+      "cover_small": "https://comicvine.gamespot.com/a/uploads/scale_small/0/9116/880862-5.jpg",
+      "cover_original": "https://comicvine.gamespot.com/a/uploads/original/0/9116/880862-5.jpg",
+      "alt_covers": [],
+      "release": "1939-01-01",
+      "publication": "2009-07-17 17:35:43",
+      "story_title": "Fritzi Ritz",
+      "editor_chief": "",
+      "creators": [
+        "52355-Ernie Bushmiller|writer, artist, cover"
+      ],
+      "storys": [],
+      "characters": [
+        "9878-Fritzi Ritz",
+        "150675-Phil Fumble"
+      ],
+      "teams": [],
+      "locations": [],
+      "objects": [],
+      "concepts": [
+        "55820-Golden Age of Comics",
+        "56695-Humor"
+      ],
+      "story_line": [],
+      "story_arcs": [],
+      "event": [],
+      "entities": true
+    },
+    {
+      "id": "6",
+      "cv_id": 164290,
+      "date_added": "2009-07-17 17:36:39",
+      "cover_small": "https://comicvine.gamespot.com/a/uploads/scale_small/0/9116/880863-6.jpg",
+      "cover_original": "https://comicvine.gamespot.com/a/uploads/original/0/9116/880863-6.jpg",
+      "alt_covers": [],
+      "release": "1939-01-01",
+      "publication": "2009-07-17 17:36:39",
+      "story_title": "Jim Hardy",
+      "editor_chief": "",
+      "creators": [],
+      "storys": [],
+      "characters": [
+        "7859-Jim Hardy"
+      ],
+      "teams": [],
+      "locations": [],
+      "objects": [],
+      "concepts": [
+        "55820-Golden Age of Comics"
+      ],
+      "story_line": [],
+      "story_arcs": [],
+      "event": [],
+      "entities": true
+    },
+    {
+      "id": "7",
+      "cv_id": 164291,
+      "date_added": "2009-07-17 17:36:55",
+      "cover_small": "https://comicvine.gamespot.com/a/uploads/scale_small/0/9116/880864-7.jpg",
+      "cover_original": "https://comicvine.gamespot.com/a/uploads/original/0/9116/880864-7.jpg",
+      "alt_covers": [],
+      "release": "1939-01-01",
+      "publication": "2009-07-17 17:36:55",
+      "story_title": "Frankie Doodle",
+      "editor_chief": "",
+      "creators": [],
+      "storys": [],
+      "characters": [
+        "179047-Frankie Doodle"
+      ],
+      "teams": [],
+      "locations": [],
+      "objects": [],
+      "concepts": [
+        "55820-Golden Age of Comics"
+      ],
+      "story_line": [],
+      "story_arcs": [],
+      "event": [],
+      "entities": true
+    },
+    {
+      "id": "8",
+      "cv_id": 92460,
+      "date_added": "2008-06-06 11:09:04",
+      "cover_small": "https://comicvine.gamespot.com/a/uploads/scale_small/0/4/59465-766-92460-1-single-series.jpg",
+      "cover_original": "https://comicvine.gamespot.com/a/uploads/original/0/4/59465-766-92460-1-single-series.jpg",
+      "alt_covers": [],
+      "release": "1939-01-01",
+      "publication": "2008-06-06 11:09:04",
+      "story_title": "Peter Pat",
+      "editor_chief": "",
+      "creators": [],
+      "storys": [],
+      "characters": [],
+      "teams": [],
+      "locations": [],
+      "objects": [],
+      "concepts": [
+        "55820-Golden Age of Comics"
+      ],
+      "story_line": [],
+      "story_arcs": [],
+      "event": [],
+      "entities": true
+    },
+    {
+      "id": "9",
+      "cv_id": 164292,
+      "date_added": "2009-07-17 17:37:36",
+      "cover_small": "https://comicvine.gamespot.com/a/uploads/scale_small/0/9116/880865-9.jpg",
+      "cover_original": "https://comicvine.gamespot.com/a/uploads/original/0/9116/880865-9.jpg",
+      "alt_covers": [],
+      "release": "1939-01-01",
+      "publication": "2009-07-17 17:37:36",
+      "story_title": "Strange As It Seems",
+      "editor_chief": "",
+      "creators": [],
+      "storys": [],
+      "characters": [],
+      "teams": [],
+      "locations": [],
+      "objects": [],
+      "concepts": [
+        "55820-Golden Age of Comics"
+      ],
+      "story_line": [],
+      "story_arcs": [],
+      "event": [],
+      "entities": true
+    },
+    {
+      "id": "10",
+      "cv_id": 92461,
+      "date_added": "2008-06-06 11:09:04",
+      "cover_small": "https://comicvine.gamespot.com/a/uploads/scale_small/0/9116/1556929-187881.jpg",
+      "cover_original": "https://comicvine.gamespot.com/a/uploads/original/0/9116/1556929-187881.jpg",
+      "alt_covers": [],
+      "release": "1939-01-01",
+      "publication": "2008-06-06 11:09:04",
+      "story_title": "Little Mary Mixup",
+      "editor_chief": "",
+      "creators": [],
+      "storys": [],
+      "characters": [
+        "33171-Little Mary Mixup"
+      ],
+      "teams": [],
+      "locations": [],
+      "objects": [],
+      "concepts": [
+        "55820-Golden Age of Comics"
+      ],
+      "story_line": [],
+      "story_arcs": [],
+      "event": [],
+      "entities": true
+    },
+    {
+      "id": "11",
+      "cv_id": 164293,
+      "date_added": "2009-07-17 17:38:27",
+      "cover_small": "https://comicvine.gamespot.com/a/uploads/scale_small/0/9116/880867-11.jpg",
+      "cover_original": "https://comicvine.gamespot.com/a/uploads/original/0/9116/880867-11.jpg",
+      "alt_covers": [],
+      "release": "1939-01-01",
+      "publication": "2009-07-17 17:38:27",
+      "story_title": "Mr. and Mrs. Beans",
+      "editor_chief": "",
+      "creators": [],
+      "storys": [],
+      "characters": [
+        "179054-Mr. Beans",
+        "179055-Mrs. Beans"
+      ],
+      "teams": [],
+      "locations": [],
+      "objects": [],
+      "concepts": [
+        "55820-Golden Age of Comics"
+      ],
+      "story_line": [],
+      "story_arcs": [],
+      "event": [],
+      "entities": true
+    },
+    {
+      "id": "12",
+      "cv_id": 164294,
+      "date_added": "2009-07-17 17:38:47",
+      "cover_small": "https://comicvine.gamespot.com/a/uploads/scale_small/0/9116/880868-12.jpg",
+      "cover_original": "https://comicvine.gamespot.com/a/uploads/original/0/9116/880868-12.jpg",
+      "alt_covers": [],
+      "release": "1939-01-01",
+      "publication": "2009-07-17 17:38:47",
+      "story_title": "Joe Jinks",
+      "editor_chief": "",
+      "creators": [],
+      "storys": [],
+      "characters": [
+        "179046-Joe Jinks"
+      ],
+      "teams": [],
+      "locations": [],
+      "objects": [],
+      "concepts": [
+        "55820-Golden Age of Comics"
+      ],
+      "story_line": [],
+      "story_arcs": [],
+      "event": [],
+      "entities": true
+    },
+    {
+      "id": "13",
+      "cv_id": 92462,
+      "date_added": "2008-06-06 11:09:04",
+      "cover_small": "https://comicvine.gamespot.com/a/uploads/scale_small/0/4/59467-766-92462-1-single-series.jpg",
+      "cover_original": "https://comicvine.gamespot.com/a/uploads/original/0/4/59467-766-92462-1-single-series.jpg",
+      "alt_covers": [],
+      "release": "1939-01-01",
+      "publication": "2008-06-06 11:09:04",
+      "story_title": "Looy Dot Dope & Colonel Wowser",
+      "editor_chief": "",
+      "creators": [
+        "60668-John Devlin|penciler"
+      ],
+      "storys": [],
+      "characters": [
+        "9283-Colonel Wowser",
+        "9282-Looy Dot Dope"
+      ],
+      "teams": [],
+      "locations": [],
+      "objects": [],
+      "concepts": [
+        "49312-Anthology",
+        "55820-Golden Age of Comics",
+        "56695-Humor"
+      ],
+      "story_line": [],
+      "story_arcs": [],
+      "event": [],
+      "entities": true
+    },
+    {
+      "id": "14",
+      "cv_id": 164295,
+      "date_added": "2009-07-17 17:39:19",
+      "cover_small": "https://comicvine.gamespot.com/a/uploads/scale_small/0/9116/880869-14.jpg",
+      "cover_original": "https://comicvine.gamespot.com/a/uploads/original/0/9116/880869-14.jpg",
+      "alt_covers": [],
+      "release": "1939-01-01",
+      "publication": "2009-07-17 17:39:19",
+      "story_title": "Billy Make Believe",
+      "editor_chief": "",
+      "creators": [],
+      "storys": [],
+      "characters": [
+        "179053-Billy Make Believe"
+      ],
+      "teams": [],
+      "locations": [],
+      "objects": [],
+      "concepts": [
+        "55820-Golden Age of Comics"
+      ],
+      "story_line": [],
+      "story_arcs": [],
+      "event": [],
+      "entities": true
+    },
+    {
+      "id": "15",
+      "cv_id": 164296,
+      "date_added": "2009-07-17 17:39:45",
+      "cover_small": "https://comicvine.gamespot.com/a/uploads/scale_small/0/9116/880870-15.jpg",
+      "cover_original": "https://comicvine.gamespot.com/a/uploads/original/0/9116/880870-15.jpg",
+      "alt_covers": [],
+      "release": "1939-01-01",
+      "publication": "2009-07-17 17:39:45",
+      "story_title": "How it Began",
+      "editor_chief": "",
+      "creators": [],
+      "storys": [],
+      "characters": [],
+      "teams": [],
+      "locations": [],
+      "objects": [],
+      "concepts": [
+        "55820-Golden Age of Comics"
+      ],
+      "story_line": [],
+      "story_arcs": [],
+      "event": [],
+      "entities": true
+    },
+    {
+      "id": "16",
+      "cv_id": 164297,
+      "date_added": "2009-07-17 19:35:19",
+      "cover_small": "https://comicvine.gamespot.com/a/uploads/scale_small/0/9116/880929-16.jpg",
+      "cover_original": "https://comicvine.gamespot.com/a/uploads/original/0/9116/880929-16.jpg",
+      "alt_covers": [],
+      "release": "1940-01-01",
+      "publication": "2009-07-17 19:35:19",
+      "story_title": "Illustrated Gags",
+      "editor_chief": "",
+      "creators": [],
+      "storys": [],
+      "characters": [],
+      "teams": [],
+      "locations": [],
+      "objects": [],
+      "concepts": [
+        "55820-Golden Age of Comics",
+        "56695-Humor"
+      ],
+      "story_line": [],
+      "story_arcs": [],
+      "event": [],
+      "entities": true
+    },
+    {
+      "id": "17",
+      "cv_id": 164298,
+      "date_added": "2009-07-17 19:36:09",
+      "cover_small": "https://comicvine.gamespot.com/a/uploads/scale_small/0/9116/880931-17.jpg",
+      "cover_original": "https://comicvine.gamespot.com/a/uploads/original/0/9116/880931-17.jpg",
+      "alt_covers": [],
+      "release": "1940-01-01",
+      "publication": "2009-07-17 19:36:09",
+      "story_title": "Danny Dingle",
+      "editor_chief": "",
+      "creators": [
+        "122244-Bernard Dibble|writer, artist"
+      ],
+      "storys": [],
+      "characters": [
+        "179045-Danny Dingle"
+      ],
+      "teams": [],
+      "locations": [],
+      "objects": [],
+      "concepts": [
+        "55820-Golden Age of Comics"
+      ],
+      "story_line": [],
+      "story_arcs": [],
+      "event": [],
+      "entities": true
+    },
+    {
+      "id": "18",
+      "cv_id": 92463,
+      "date_added": "2008-06-06 11:09:04",
+      "cover_small": "https://comicvine.gamespot.com/a/uploads/scale_small/0/4/59468-766-92463-1-single-series.jpg",
+      "cover_original": "https://comicvine.gamespot.com/a/uploads/original/0/4/59468-766-92463-1-single-series.jpg",
+      "alt_covers": [],
+      "release": "1940-01-01",
+      "publication": "2008-06-06 11:09:04",
+      "story_title": "Li'l Abner 2",
+      "editor_chief": "",
+      "creators": [
+        "52277-Al Capp|writer, artist, cover"
+      ],
+      "storys": [],
+      "characters": [
+        "1900-Daisy Mae",
+        "9279-Li'l Abner",
+        "178644-Salomey"
+      ],
+      "teams": [],
+      "locations": [],
+      "objects": [],
+      "concepts": [
+        "55820-Golden Age of Comics",
+        "56695-Humor"
+      ],
+      "story_line": [],
+      "story_arcs": [],
+      "event": [],
+      "entities": true
+    },
+    {
+      "id": "19",
+      "cv_id": 164502,
+      "date_added": "2009-07-19 15:37:12",
+      "cover_small": "https://comicvine.gamespot.com/a/uploads/scale_small/0/9116/1556935-187886.jpg",
+      "cover_original": "https://comicvine.gamespot.com/a/uploads/original/0/9116/1556935-187886.jpg",
+      "alt_covers": [],
+      "release": "1940-01-01",
+      "publication": "2009-07-19 15:37:12",
+      "story_title": "Broncho Bill 2",
+      "editor_chief": "",
+      "creators": [],
+      "storys": [],
+      "characters": [
+        "34368-Broncho Bill"
+      ],
+      "teams": [],
+      "locations": [],
+      "objects": [],
+      "concepts": [
+        "55820-Golden Age of Comics",
+        "56096-Western"
+      ],
+      "story_line": [],
+      "story_arcs": [],
+      "event": [],
+      "entities": true
+    },
+    {
+      "id": "20",
+      "cv_id": 92464,
+      "date_added": "2008-06-06 11:09:04",
+      "cover_small": "https://comicvine.gamespot.com/a/uploads/scale_small/0/4/59469-766-92464-1-single-series.jpg",
+      "cover_original": "https://comicvine.gamespot.com/a/uploads/original/0/4/59469-766-92464-1-single-series.jpg",
+      "alt_covers": [],
+      "release": "1940-01-01",
+      "publication": "2008-06-06 11:09:04",
+      "story_title": "Tarzan",
+      "editor_chief": "",
+      "creators": [
+        "58037-Edgar Rice Burroughs|other"
+      ],
+      "storys": [],
+      "characters": [
+        "22892-Tarzan"
+      ],
+      "teams": [],
+      "locations": [],
+      "objects": [],
+      "concepts": [
+        "55820-Golden Age of Comics"
+      ],
+      "story_line": [],
+      "story_arcs": [],
+      "event": [],
+      "entities": true
+    },
+    {
+      "id": "21",
+      "cv_id": 92465,
+      "date_added": "2008-06-06 11:09:04",
+      "cover_small": "https://comicvine.gamespot.com/a/uploads/scale_small/0/4/59470-766-92465-1-single-series.jpg",
+      "cover_original": "https://comicvine.gamespot.com/a/uploads/original/0/4/59470-766-92465-1-single-series.jpg",
+      "alt_covers": [],
+      "release": "1940-01-01",
+      "publication": "2008-06-06 11:09:04",
+      "story_title": "Ella Cinders 2",
+      "editor_chief": "",
+      "creators": [],
+      "storys": [],
+      "characters": [
+        "9274-Ella Cinders"
+      ],
+      "teams": [],
+      "locations": [],
+      "objects": [],
+      "concepts": [
+        "55820-Golden Age of Comics"
+      ],
+      "story_line": [],
+      "story_arcs": [],
+      "event": [],
+      "entities": true
+    },
+    {
+      "id": "22",
+      "cv_id": 164299,
+      "date_added": "2009-07-17 19:38:24",
+      "cover_small": "https://comicvine.gamespot.com/a/uploads/scale_small/0/9116/880934-22.jpg",
+      "cover_original": "https://comicvine.gamespot.com/a/uploads/original/0/9116/880934-22.jpg",
+      "alt_covers": [],
+      "release": "1940-01-01",
+      "publication": "2009-07-17 19:38:24",
+      "story_title": "Iron Vic",
+      "editor_chief": "",
+      "creators": [
+        "122244-Bernard Dibble|writer, artist, cover"
+      ],
+      "storys": [],
+      "characters": [
+        "9280-Iron Vic"
+      ],
+      "teams": [],
+      "locations": [],
+      "objects": [],
+      "concepts": [
+        "55820-Golden Age of Comics"
+      ],
+      "story_line": [],
+      "story_arcs": [],
+      "event": [],
+      "entities": true
+    },
+    {
+      "id": "23",
+      "cv_id": 92466,
+      "date_added": "2008-06-06 11:09:04",
+      "cover_small": "https://comicvine.gamespot.com/a/uploads/scale_small/0/4/59471-766-92466-1-single-series.jpg",
+      "cover_original": "https://comicvine.gamespot.com/a/uploads/original/0/4/59471-766-92466-1-single-series.jpg",
+      "alt_covers": [],
+      "release": "1940-01-01",
+      "publication": "2008-06-06 11:09:04",
+      "story_title": "Tailspin Tommy",
+      "editor_chief": "",
+      "creators": [],
+      "storys": [],
+      "characters": [
+        "40239-Tailspin Tommy"
+      ],
+      "teams": [],
+      "locations": [],
+      "objects": [],
+      "concepts": [
+        "57578-Adventure",
+        "55820-Golden Age of Comics"
+      ],
+      "story_line": [],
+      "story_arcs": [],
+      "event": [],
+      "entities": true
+    },
+    {
+      "id": "24",
+      "cv_id": 164313,
+      "date_added": "2009-07-18 11:06:16",
+      "cover_small": "https://comicvine.gamespot.com/a/uploads/scale_small/0/9116/881538-24.jpg",
+      "cover_original": "https://comicvine.gamespot.com/a/uploads/original/0/9116/881538-24.jpg",
+      "alt_covers": [],
+      "release": "1940-01-01",
+      "publication": "2009-07-18 11:06:16",
+      "story_title": "Alice in Wonderland",
+      "editor_chief": "",
+      "creators": [
+        "58535-Lewis Carroll|writer"
+      ],
+      "storys": [],
+      "characters": [
+        "21451-Alice",
+        "39780-Humpty Dumpty",
+        "21464-White Rabbit"
+      ],
+      "teams": [],
+      "locations": [
+        "44649-Wonderland"
+      ],
+      "objects": [],
+      "concepts": [
+        "55820-Golden Age of Comics"
+      ],
+      "story_line": [],
+      "story_arcs": [],
+      "event": [],
+      "entities": true
+    },
+    {
+      "id": "25",
+      "cv_id": 164314,
+      "date_added": "2009-07-18 11:08:47",
+      "cover_small": "https://comicvine.gamespot.com/a/uploads/scale_small/0/9116/881541-25.jpg",
+      "cover_original": "https://comicvine.gamespot.com/a/uploads/original/0/9116/881541-25.jpg",
+      "alt_covers": [],
+      "release": "1940-01-01",
+      "publication": "2009-07-18 11:08:47",
+      "story_title": "Abbie an' Slats",
+      "editor_chief": "",
+      "creators": [],
+      "storys": [],
+      "characters": [
+        "9275-Abbie",
+        "9276-Slats"
+      ],
+      "teams": [],
+      "locations": [],
+      "objects": [],
+      "concepts": [
+        "55820-Golden Age of Comics",
+        "56695-Humor"
+      ],
+      "story_line": [],
+      "story_arcs": [],
+      "event": [],
+      "entities": true
+    },
+    {
+      "id": "26",
+      "cv_id": 248791,
+      "date_added": "2010-12-11 05:14:14",
+      "cover_small": "https://comicvine.gamespot.com/a/uploads/scale_small/0/9116/1556913-26.jpg",
+      "cover_original": "https://comicvine.gamespot.com/a/uploads/original/0/9116/1556913-26.jpg",
+      "alt_covers": [],
+      "release": "1940-01-01",
+      "publication": "2010-12-11 05:14:14",
+      "story_title": "Little Mary Mixup 2",
+      "editor_chief": "",
+      "creators": [],
+      "storys": [],
+      "characters": [
+        "33171-Little Mary Mixup"
+      ],
+      "teams": [],
+      "locations": [],
+      "objects": [],
+      "concepts": [
+        "55820-Golden Age of Comics"
+      ],
+      "story_line": [],
+      "story_arcs": [],
+      "event": [],
+      "entities": true
+    },
+    {
+      "id": "27",
+      "cv_id": 92467,
+      "date_added": "2008-06-06 11:09:04",
+      "cover_small": "https://comicvine.gamespot.com/a/uploads/scale_small/0/4/59472-766-92467-1-single-series.jpg",
+      "cover_original": "https://comicvine.gamespot.com/a/uploads/original/0/4/59472-766-92467-1-single-series.jpg",
+      "alt_covers": [],
+      "release": "1942-01-01",
+      "publication": "2008-06-06 11:09:04",
+      "story_title": "Jim Hardy 2",
+      "editor_chief": "",
+      "creators": [],
+      "storys": [],
+      "characters": [
+        "7859-Jim Hardy"
+      ],
+      "teams": [],
+      "locations": [],
+      "objects": [],
+      "concepts": [
+        "55820-Golden Age of Comics"
+      ],
+      "story_line": [],
+      "story_arcs": [],
+      "event": [],
+      "entities": true
+    },
+    {
+      "id": "28",
+      "cv_id": 92468,
+      "date_added": "2008-06-06 11:09:04",
+      "cover_small": "https://comicvine.gamespot.com/a/uploads/scale_small/0/4/59473-766-92468-1-single-series.jpg",
+      "cover_original": "https://comicvine.gamespot.com/a/uploads/original/0/4/59473-766-92468-1-single-series.jpg",
+      "alt_covers": [],
+      "release": "1942-01-01",
+      "publication": "2008-06-06 11:09:04",
+      "story_title": "Ella Cinders and Abbie an' Slats",
+      "editor_chief": "",
+      "creators": [],
+      "storys": [],
+      "characters": [
+        "9275-Abbie",
+        "9277-Becky",
+        "9274-Ella Cinders",
+        "9278-Pop Groggins",
+        "9276-Slats"
+      ],
+      "teams": [],
+      "locations": [],
+      "objects": [],
+      "concepts": [
+        "55820-Golden Age of Comics"
+      ],
+      "story_line": [],
+      "story_arcs": [],
+      "event": [],
+      "entities": true
+    }
+  ],
+  "entities": true
+}
